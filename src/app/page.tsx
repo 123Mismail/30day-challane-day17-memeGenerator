@@ -1,12 +1,13 @@
 
  
 import React from 'react'
-import HTMLpreviwer from './components/HTMLpreviwer'
+import MemeGenerator from './components/memeGenerator'
+ 
 
 function page() {
   return (
     <div> 
-     <HTMLpreviwer/>
+   <MemeGenerator/>
     </div>
   )
 }
